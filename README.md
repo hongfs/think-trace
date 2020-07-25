@@ -2,12 +2,7 @@
 
 用于ThinkPHP6+的页面Trace扩展，支持Html页面和浏览器控制台两种方式输出。
 
-## 安装
-
-~~~
-composer remove topthink/think-trace
-composer require hongfs/think-trace:dev-master
-~~~
+[使用说明](https://www.hongfs.cn/2020/07/php/thinkphp/thinkphp-trace-turn-off-some-page-debugging-function/)
 
 ## 配置
 
