@@ -6,7 +6,7 @@
 
 ~~~
 composer remove topthink/think-trace
-composer require hongfs/think-trace:tree-1
+composer require hongfs/think-trace:dev-master
 ~~~
 
 ## 配置
